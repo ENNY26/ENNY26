@@ -1,0 +1,6 @@
+- HI THERE !!
+- My name is Eniola O,  I am curently  junior in college and i major in information systems.
+- I am interested in the field of Data analytics and DataScience.
+- I am currently learnig SQL and Excel on  my own!!.
+- I plan to also master Tableu/Powerbi and python by the end of this year so I can get a good internship and eventually land a good full time job
+- later in my carrer I want to learn more advanced stuff like machine learning and more so i can land higher position in the data science field .
